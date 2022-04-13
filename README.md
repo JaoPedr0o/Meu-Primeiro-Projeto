@@ -5,10 +5,10 @@
 
 <hr>
 
-- Esse é o meu primeiro projeto definitivo aplicando os conhecimentos adquiridos até o modulo 9 do Discover na plataforma da @RocketSeat. 
+<h3>Esse é o meu primeiro projeto definitivo aplicando os conhecimentos adquiridos até o modulo 9 do Discover na plataforma da @RocketSeat.</h3>
+<ul>
+  <li>A página não está totalmente responsiva. No decorrer do estudo adicionarei as Medias Queries.</li>
+  <li>O design da página está no Figma. Segue o link para os créditos.</li>
+</ul>
 
-- A página não está totalmente responsiva. No decorrer do estudo adicionarei as Medias Queries.
--  O design da página está no Figma. Segue o link para os créditos.
-https://www.figma.com/file/kKXkX0lqYmSsfXSxf0OvYj/Sign-Up-Form-and-CheckOut-Form-(Community)?node-id=0%3A1
-
-<hr>
+<a href="https://www.figma.com/file/kKXkX0lqYmSsfXSxf0OvYj/Sign-Up-Form-and-CheckOut-Form-(Community)?node-id=0%3A1">Este design no Figma.<a>
